@@ -1,5 +1,5 @@
-        Little Crab
-        ===========
+Little Crab
+===========
 
 This is a homework which is based on the book "Introduction to Programming with Greenfoot" by Michael Kölling.
 
