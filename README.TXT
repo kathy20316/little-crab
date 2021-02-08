@@ -1,17 +1,11 @@
-        Little Crab (version 4)
-        ===========
-        
-This scenario is part of the book 
+Little Crab
+===========
 
-    "Introduction to Programming with Greenfoot"
-    (Second edition)
-    by Michael Kölling
-    ISBN: 0134054296
+This is a homework which is based on the book "Introduction to Programming with Greenfoot" by Michael Kölling.
 
-This scenario is discussed in detail in that book.
+In the scenario, I practice changing background and Actors, adding more sub-classes of the Actor superclass 
+such as Starfish (GIMP tool used to mofify the images), and adjusting the actions related.
 
-Copyright (c) Michael Kölling.
-
-
-This is the fourth version of the scenario. Here, we add sound, and we 
-stop the game when the crab gets caught.
+I practice changing the act methods of the main character - little crab. The little crab is not moving forward 
+automatically as in the original version, but it moves and turns when the users use navigation arrows on the keyboards.
+By doing this, the users can manipulate actions of the little crab which makes the game more interactive and interesting.
