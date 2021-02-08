@@ -1,7 +1,7 @@
 Little Crab
 ===========
 
-This is a homework which is based on the book "Introduction to Programming with Greenfoot" by Michael Kölling.
+This is a practice which is based on the book "Introduction to Programming with Greenfoot" by Michael Kölling.
 
 In the scenario, I practice changing background and Actors, adding more sub-classes of the Actor superclass such as Starfish (GIMP tool used to mofify the images), and adjusting the actions related.
 
